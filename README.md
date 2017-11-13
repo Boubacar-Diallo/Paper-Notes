@@ -1,8 +1,8 @@
 # Paper-Notes
 #### 2017-09
 
-- Digital image integrity - A survey of protection and verification techniques [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
-- A bibliography of pixel-based blind image forgery detection techniques [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
+- [Digital image integrity - A survey of protection and verification techniques](notes/Survey_Korus_201709.md) [[PDF](http://ah6uj2pb2s.scholar.serialssolutions.com/?sid=google&auinit=P&aulast=Korus&atitle=Digital+image+integrity%E2%80%93a+survey+of+protection+and+verification+techniques&id=doi:10.1016/j.dsp.2017.08.009&title=Digital+signal+processing&volume=71&date=2017&spage=1&issn=1051-2004)]
+- Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)] [[article](https://einstein.ai/research/non-autoregressive-neural-machine-translation)]
 - A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning [[arXiv](https://arxiv.org/abs/1711.00832)]
 - Don't Decay the Learning Rate, Increase the Batch Size [[arXiv](https://arxiv.org/abs/1711.00489)]
 - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
