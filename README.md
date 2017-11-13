@@ -1,7 +1,7 @@
 # Paper-Notes
 #### Survey
 
-- Digital image integrity - A survey of protection and verification techniques _(Korus, Paweł. 09-2017)_ [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
+- [Digital image integrity - A survey of protection and verification techniques](notes/Survey_Korus_201709.md) _(Korus, Paweł. 09-2017)_ [[PDF](notes/Survey_Korus_201709.pdf)]
 - A bibliography of pixel-based blind image forgery detection techniques _(Qureshi, M.A. et al. 11-2015)_ [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Image Forgery Detection [A survey] [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 
