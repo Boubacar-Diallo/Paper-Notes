@@ -7,7 +7,7 @@
 
 #### Convolutional Neural Networks for Multimedia Forensics
 
-- [Recasting Residual-based Local Descriptors as Convolutional Neural Networks: an Application to Image Forgery Detection](notes/Survey_Korus_201709.md) _(Cozzolino, D. et al. 2017)_ [[PDF](notes/Survey_Korus_201709.pdf)]
+- [Recasting Residual-based Local Descriptors as Convolutional Neural Networks: an Application to Image Forgery Detection](notes/Residual-based_as_CNN.md) _(Cozzolino, D. et al. 2017)_ [[PDF](notes/Survey_Korus_201709.pdf)]
 - [A Deep Learning Approach To Universal Image Manipulation Detection Using A New Convolutional Layer](notes/Survey_Korus_201709.md) _(Bayar, B. 2016)_ [[PDF](notes/Survey_Korus_201709.pdf)]
 - Design Principles of Convolutional Neural Networks for Multimedia Forensics [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Double JPEG compression forensics based on a convolutional neural network [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
