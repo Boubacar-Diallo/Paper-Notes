@@ -1,8 +1,8 @@
 # Paper-Notes
 #### 2017-09
 
-- Digital image integrity - A survey of protection and verification techniques (Korus, Paweł. 09-2017) [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
-- A bibliography of pixel-based blind image forgery detection techniques, (Qureshi, M.A. and Deriche, M. 11-2015) [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
+- Digital image integrity - A survey of protection and verification techniques (### Korus, Paweł. 09-2017) [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
+- A bibliography of pixel-based blind image forgery detection techniques, (### Qureshi, M.A. and Deriche, M. 11-2015) [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
 
 #### 2017-10
