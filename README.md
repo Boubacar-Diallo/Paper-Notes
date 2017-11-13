@@ -2,7 +2,7 @@
 #### 2017-09
 
 - Digital image integrity - A survey of protection and verification techniques [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
-- [A bibliography of pixel-based blind image forgery detection techniques](notes/Survey_Korus_201709.pdf) [[Resumé](notes/Survey_Korus_201709.md)]
+- A bibliography of pixel-based blind image forgery detection techniques ( [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning [[arXiv](https://arxiv.org/abs/1711.00832)]
 - Don't Decay the Learning Rate, Increase the Batch Size [[arXiv](https://arxiv.org/abs/1711.00489)]
 - Hierarchical Representations for Efficient Architecture Search [[arXiv](https://arxiv.org/abs/1711.00436)]
