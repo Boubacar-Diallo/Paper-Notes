@@ -7,8 +7,8 @@
 
 #### Convolutional Neural Networks for Multimedia Forensics
 
-- [Recasting Residual-based Local Descriptors as Convolutional Neural Networks: an Application to Image Forgery Detection](notes/Survey_Korus_201709.md) [[PDF](notes/Survey_Korus_201709.pdf)]
-- [A Deep Learning Approach To Universal Image Manipulation Detection Using A New Convolutional Layer](notes/Survey_Korus_201709.md) [[PDF](notes/Survey_Korus_201709.pdf)]
+- [Recasting Residual-based Local Descriptors as Convolutional Neural Networks: an Application to Image Forgery Detection](notes/Survey_Korus_201709.md) _(Cozzolino, D. et al. 2017)_ [[PDF](notes/Survey_Korus_201709.pdf)]
+- [A Deep Learning Approach To Universal Image Manipulation Detection Using A New Convolutional Layer](notes/Survey_Korus_201709.md) _(Bayar, B. 2016)_ [[PDF](notes/Survey_Korus_201709.pdf)]
 - Design Principles of Convolutional Neural Networks for Multimedia Forensics [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Double JPEG compression forensics based on a convolutional neural network [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Deep Learning Hierarchical Representations for Image Steganalysis [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
@@ -28,7 +28,6 @@
 
 - Visualizing and Understanding Convolutional Networks [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Methods for Interpreting and Understanding Deep Neural Networks [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
-- Understanding Grounded Language Learning Agents [[arXiv](https://arxiv.org/abs/1710.09867)]
 
 #### Datasets 
 
