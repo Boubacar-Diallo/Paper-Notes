@@ -3,12 +3,12 @@
 
 - [Digital image integrity - A survey of protection and verification techniques](notes/Survey_Korus_201709.md) _(Korus, Paweł. 09-2017)_ [[PDF](notes/Survey_Korus_201709.pdf)]
 - [A bibliography of pixel-based blind image forgery detection techniques](notes/Survey_Korus_201709.md) _(Qureshi, M.A. et al. 11-2015)_ [[PDF](notes/Survey_Korus_201709.pdf)]
-- [Image Forgery Detection [A survey](notes/Survey_Korus_201709.md)] [[PDF](notes/Survey_Korus_201709.pdf)]
+- [Image Forgery Detection: A survey](notes/Survey_Korus_201709.md) _(Farid H. 2009)_ [[PDF](notes/Survey_Korus_201709.pdf)]
 
 #### Convolutional Neural Networks for Multimedia Forensics
 
-- Recasting Residual-based Local Descriptors as Convolutional Neural Networks: an Application to Image Forgery Detection [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
-- A Deep Learning Approach To Universal Image Manipulation Detection Using A New Convolutional Layer [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
+- [Recasting Residual-based Local Descriptors as Convolutional Neural Networks: an Application to Image Forgery Detection](notes/Survey_Korus_201709.md) [[PDF](notes/Survey_Korus_201709.pdf)]
+- [A Deep Learning Approach To Universal Image Manipulation Detection Using A New Convolutional Layer](notes/Survey_Korus_201709.md) [[PDF](notes/Survey_Korus_201709.pdf)]
 - Design Principles of Convolutional Neural Networks for Multimedia Forensics [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Double JPEG compression forensics based on a convolutional neural network [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Deep Learning Hierarchical Representations for Image Steganalysis [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
