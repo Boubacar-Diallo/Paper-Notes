@@ -23,9 +23,8 @@
 - A Deep Learning Approach to Detection of Splicing and Copy-Move Forgeries in Images [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Tampering Detection and Localization through Clustering of Camera-Based CNN Features [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Localization of JPEG double compression through multi-domain convolutional neural networks [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
-- JPEG-BASED FORENSICS THROUGH CONVOLUTIONAL NEURAL [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
+- JPEG-based forensics through convolutional neural networks [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 
-NETWORKS
 #### Datasets 
 
-- CASIA IMAGE TAMPERING DETECTION EVALUATION DATABASE [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
+- CASIA image tampering detection evaluation database [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
