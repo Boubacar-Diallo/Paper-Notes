@@ -1,7 +1,7 @@
 # Paper-Notes
 #### 2017-09
 
-- [Digital image integrity - A survey of protection and verification techniques](notes/Survey_Korus_201709.md) [[PDF](notes/Survey_Korus_201709.pdf)]
+- [Digital image integrity - A survey of protection and verification techniques](notes/Survey_Korus_201709.pdf) [[Resumé](notes/Survey_Korus_201709.md)]
 - Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)] [[article](https://einstein.ai/research/non-autoregressive-neural-machine-translation)]
 - A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning [[arXiv](https://arxiv.org/abs/1711.00832)]
 - Don't Decay the Learning Rate, Increase the Batch Size [[arXiv](https://arxiv.org/abs/1711.00489)]
