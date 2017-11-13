@@ -1,4 +1,4 @@
-## [Digital image integrity - A survey of protection and verification techniques] (notes/Survey_Korus_201709.pdf)
+## [Digital image integrity - A survey of protection and verification techniques] (Survey_Korus_201709.pdf)
 
 We are currently on a verge of a revolution in digital photography. Developments in computational
 imaging and adoption of artificial intelligence have spawned new editing techniques that give impressive
