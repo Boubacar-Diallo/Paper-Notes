@@ -1,5 +1,10 @@
 ## [Digital image integrity - A survey of protection and verification techniques](Survey_Korus_201709.pdf)
 
+- Author(s):
+- Publication : 
+- Cite : 
+- Year : 
+
 We are currently on a verge of a revolution in digital photography. Developments in computational
 imaging and adoption of artificial intelligence have spawned new editing techniques that give impressive
 results in astonishingly short time-frames. The advent of multi-sensor and multi-lens cameras will further
