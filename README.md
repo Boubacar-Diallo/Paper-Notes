@@ -1,7 +1,7 @@
 # Paper-Notes
-#### 2017-11
+#### 2017-09
 
-- Weighted Transformer Network for Machine Translation [[arXiv](https://arxiv.org/abs/1711.02132)] [[article](https://einstein.ai/research/weighted-transformer)]
+- Digital image integrity - A survey of protection and verification techniques [[arXiv](https://arxiv.org/abs/1711.02132)] [[article](https://einstein.ai/research/weighted-transformer)]
 - Non-Autoregressive Neural Machine Translation [[arXiv](https://arxiv.org/abs/1711.02281)] [[article](https://einstein.ai/research/non-autoregressive-neural-machine-translation)]
 - A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning [[arXiv](https://arxiv.org/abs/1711.00832)]
 - Don't Decay the Learning Rate, Increase the Batch Size [[arXiv](https://arxiv.org/abs/1711.00489)]
