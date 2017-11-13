@@ -7,13 +7,13 @@
 
 #### Convolutional Neural Network (CNN)
 
-- Unsupervised Machine Translation Using Monolingual Corpora Only [[arXiv](https://arxiv.org/abs/1711.00043)]
-- Dynamic Routing Between Capsules [[arXiv](https://arxiv.org/abs/1710.09829)]
-- A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs [[Science](http://science.sciencemag.org/content/early/2017/10/26/science.aag2612.full)] [[article](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)] [[code](https://github.com/vicariousinc/science_rcn)]
+- Visualizing and Understanding Convolutional Networks [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
+- Methods for Interpreting and Understanding Deep Neural Networks [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Understanding Grounded Language Learning Agents [[arXiv](https://arxiv.org/abs/1710.09867)]
 
 #### Convolutional Neural Networks for Multimedia Forensics
 
+- Recasting Residual-based Local Descriptors as Convolutional Neural Networks: an Application to Image Forgery Detection [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Design Principles of Convolutional Neural Networks for Multimedia Forensics [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Double JPEG compression forensics based on a convolutional neural network [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
 - Deep Learning Hierarchical Representations for Image Steganalysis [[PDF](notes/Survey_Korus_201709.pdf)] [[Resumé](notes/Survey_Korus_201709.md)]
